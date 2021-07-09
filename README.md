@@ -1,10 +1,10 @@
-# Freeletics Hashtag Service
+# ASC Hashtag Service
 
-freeletics-hashtag-service is a service built from NodeJS + firebase cloud function + Google Pub/Sub for manipulate hashtag of Social platform that created by `Amity Social Cloud` ([ASC](https://www.amity.co/products/amity-social))
+asc-hashtag-service is a service built from NodeJS + firebase cloud function + Google Pub/Sub for manipulate hashtag of Social platform that created by `Amity Social Cloud` ([ASC](https://www.amity.co/products/amity-social))
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install freeletics-hashtag-service.
+Use the package manager [npm](https://www.npmjs.com/) to install asc-hashtag-service.
 
 ```bash
 cd functions
