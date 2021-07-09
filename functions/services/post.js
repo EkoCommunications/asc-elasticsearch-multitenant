@@ -48,7 +48,7 @@ async function getPostList(hashtag, page, size, content) {
             }
         }
         if (hashtag) query.bool.must.push({ match: { hashtag } })
-        if (hashtag) query.bool.must.push({ wildcard: { content: `*${content}*` } })
+        if (content) query.bool.must.push({ wildcard: { content: `*${content}*` } })
     }
     else if (hashtag) query.match = { hashtag }
     else if (content) query.wildcard = { content: `*${content}*` }
