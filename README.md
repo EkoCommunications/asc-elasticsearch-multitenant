@@ -1,6 +1,6 @@
 # ASC Hashtag Service
 
-asc-hashtag-service is a service built from NodeJS + firebase cloud function + Google Pub/Sub for manipulate hashtag of Social platform that created by `Amity Social Cloud` ([ASC](https://www.amity.co/products/amity-social))
+asc-hashtag-service is a service built from NodeJS + firebase cloud function + Google Pub/Sub for manipulate hashtag of Social platform that created by `Amity Social Cloud` ([ASC](https://www.amity.co/products/amity-social)).
 
 ## Installation
 
